@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "personalDetails": [
+    {
+      "jobTitle": "Data Analyst",
+      "firstName": "Levi",
+      "lastName": "Levis",
+      "email": "lvllvs@gmail.com",
+      "phone": "012345678",
+      "country": "Indonesia",
+      "city": "Tangerang Selatan",
+      "address": "Jl. Raya",
+      "postalCode": "12345",
+      "birthPlace": "Jakarta",
+      "birthDate": "21 June 2000",
+      "profileSummary": "MBA (university topper and gold medallist) with seven years of experience in budgeting, forecasting and financial modelling. Promoted from quality assurance manager to a business analyst within two years. Used forecasting model with variance analysis to recommend changes in the production plan and sale of three products to reduce overheads by 43%. Achieved the certificate of merit for outstanding performance.",
+      "education": [
+        {
+          "school": "Universitas Indonesia",
+          "degree": "Civil Engineer",
+          "startDate": "2016",
+          "endDate": "2020",
+          "city": "Jakarta",
+          "description": "GPA: 4.00/4.00"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Communication",
+          "level": "Experienced"
+        },
+        {
+          "skill": "Teamwork",
+          "level": "Expert"
+        },
+        {
+          "skill": "AutoCAD",
+          "level": "Experienced"
+        }
+      ],
+      "workExperience": [],
+      "organizationExperience": [],
+      "languages": [
+        {
+          "language": "Indonesian",
+          "level": "Native Speaker"
+        },
+        {
+          "language": "English",
+          "level": "Very Good Command"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
